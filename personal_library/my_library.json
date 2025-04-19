@@ -1,0 +1,23 @@
+[
+    {
+        "title": "h1",
+        "author": "h1",
+        "year": 1000,
+        "genre": "mys",
+        "read_status": true
+    },
+    {
+        "title": "h4",
+        "author": "h4",
+        "year": 2010,
+        "genre": "atom",
+        "read_status": true
+    },
+    {
+        "title": "lum",
+        "author": "lum",
+        "year": 2000,
+        "genre": "hii",
+        "read_status": true
+    }
+]
